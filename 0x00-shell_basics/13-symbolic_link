@@ -1,7 +1,11 @@
 #!/bin/bash
 <<<<<<< HEAD
+<<<<<<< HEAD
 ln -s /bin/ls __ls__
 
 =======
 ln -s /bin/ls _ls_
 >>>>>>> e9bf34109a1a4b4efda2452e963ae4baa23ced96
+=======
+ln -s /bin/ls __ls__
+>>>>>>> a0d4550c2fbfd5cd182b26a2ee673793e78a8389
